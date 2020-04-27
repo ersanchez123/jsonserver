@@ -1,2 +1,19 @@
-[{"Producto":"EXGF56","Stock":"1","comentario":"SIN STOCK"},
-{"Producto":"HYGT653","Stock":"1","comentario":"SIN STOCK"}]
+{
+  "posts": [
+    {
+      "id": 1,
+      "producto": "EXGF56",
+      "stock": "1",
+      "comentario": "SIN STOCK"
+    },
+    {
+      "id": 2,
+      "producto": "HYGT653",
+      "stock": "1",
+      "comentario": "SIN STOCK"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
