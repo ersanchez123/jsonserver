@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-      "id" = 1,
+      "id" : 1,
       "producto": "EXGF56",
       "stock": "1",
       "comentario": "SIN STOCK"
