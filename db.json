@@ -1,12 +1,8 @@
 {
   "posts": [
     {
+      "id" = 1,
       "producto": "EXGF56",
-      "stock": "1",
-      "comentario": "SIN STOCK"
-    },
-    {
-      "producto": "HYGT653",
       "stock": "1",
       "comentario": "SIN STOCK"
     }
